@@ -50,7 +50,9 @@
     "stripe": "^17.7.0",
     "subscriptions-transport-ws": "^0.9.19",
 
+
     "uuid": "^11.0.2",
+
     "web-vitals": "^0.2.4"
   },
   "scripts": {
